@@ -1,0 +1,175 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter of high consequence, principally concerning the indamaging of this our kingdome of England, subversion of religion, and many more papisticall divisions compiled, and directed to Colonell Lunsford scattered in the Church of Saint Paul, and since come to publicke view. As also certaine articles whereby the said Lunsford is convinced of high treason, both to the King, state, and House of Parliament.</title>
+            <author>Sartwell, G.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87994</idno>
+            <idno type="STC">Wing L1573</idno>
+            <idno type="STC">Thomason E132_10</idno>
+            <idno type="STC">ESTC R1111</idno>
+            <idno type="EEBO-CITATION">99858935</idno>
+            <idno type="PROQUEST">99858935</idno>
+            <idno type="VID">110995</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87994)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 110995)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 23:E132[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter of high consequence, principally concerning the indamaging of this our kingdome of England, subversion of religion, and many more papisticall divisions compiled, and directed to Colonell Lunsford scattered in the Church of Saint Paul, and since come to publicke view. As also certaine articles whereby the said Lunsford is convinced of high treason, both to the King, state, and House of Parliament.</title>
+                  <author>Sartwell, G.</author>
+               </titleStmt>
+               <extent>[2], 3, [3] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: G. Sartwell, Redmond.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lunsford, Thomas, --  Sir, 1610?-1653?</term>
+               <term>Church and state --  England --  Early works to 1800.</term>
+               <term>Great Britain --  Religion --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:110995:1"/>
+            <pb facs="tcp:110995:1" rendition="simple:additions"/>
+            <p>A LETTER OF High conſequence, Principally concerning the indamaging of this our Kingdome of <hi>England,</hi> ſubverſion of Religion, and many more Papiſticall diviſions compi<g ref="char:EOLhyphen"/>led, and directed to Colonell <hi>Lunsford</hi> ſcatte<g ref="char:EOLhyphen"/>red in the Church of Saint <hi>Paul,</hi> and ſince come to publicke view.</p>
+            <p>As alſo certaine Articles whereby the ſaid <hi>Lunsford</hi> is convinced of high Treaſon, both to the King, State, and Houſe of Parliament.</p>
+            <p>Printed in the yeare 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:110995:2"/>
+            <pb facs="tcp:110995:2"/>
+            <head>A Letter of high conſequence, princi<g ref="char:EOLhyphen"/>pally concerning the indammaging of this our Kingdome of <hi>England,</hi> ſubverſion of Religion, and many more Papiſticall diviſions, compiled and directed to Colo<g ref="char:EOLhyphen"/>nell <hi>Lunsford,</hi> ſcattered in the Church of Saint <hi>Paul,</hi> and ſince come to publicke view.</head>
+            <opener>
+               <salute>Renowned Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Ee are generally joyfull beyond expreſſion, to heare of the honor His Majeſtie hath been pleaſed to conferre upon your ſo well deſerving ſelfe, though we muſt confeſſe we are no leſſe ſorrow<g ref="char:EOLhyphen"/>full for the unexpected commo<g ref="char:EOLhyphen"/>tion of that ungoverned Commonalty which have beene the occaſion of ſuppreſſing your power, the which by the guidance and carefull diligence of your ſeverity and auſtere demeanor, might have been a great furtherance to our preſent deſignes, which nevertheleſſe, although extenuated &amp; leſſened by this preſent hinderance of loſing that preroga<g ref="char:EOLhyphen"/>tive and place of honour of being Lieutenant of the Tower, wee make no queſtion but the luſtre of
+<pb n="2" facs="tcp:110995:3"/>knighthood which his Majeſty hath beene pleaſed to tranſplant ſince upon you, will bee a meanes to extoll and ſtrengthen your authority, to the ayding and aſſiſting of our poore brethren there with you: of which wee ſhall not onely be mindefull, but alſo by our indulgent and vigilant indevours be ready to graunt and imploy our furtherance in whatſoe<g ref="char:EOLhyphen"/>ver you ſhallbe pleaſed upon ſerious confederation to put in practiſe for their reliefe and eſtabliſhing of the Catholicke faith and ſupremacy of the Church of Rome; let me intreat you in the behalfe of all the reſt of our wellwiſhers, to be diligent in the proſecution of your intended enterpriſe, and to make as much expedition in the ſame as may poſ<g ref="char:EOLhyphen"/>ſibly be conceived, unleſſe the perſpicuoſity of our more curious than wary enemies pry into the ſecrets of our intentions through our too much tedi<g ref="char:EOLhyphen"/>ouſneſſe and ſlackeneſſe in the performance of this our ſo neceſſary undertaking. Privacy will be like<g ref="char:EOLhyphen"/>wiſe expedient, and a ſpeciall care ought to be had in electing ſuch as you may impoſe truſt in: you know our enemies, therefore I need not ſpecifie them; as for our friends, we have a faulkon, and pep<g ref="char:EOLunhyphen"/>per is very dear to us, (you underſtand me): you may draw together ſome forces of our friends under pre<g ref="char:EOLhyphen"/>tence againſt us, his Majeſtyes favour towards you will bee ſufficient to blinde the intellect of the people whoſe eies are already dimmed with the vaile of ignorance. Make your ſelfe as ſtrong as you may: as or the charges, we will be correſpondent in de<g ref="char:EOLhyphen"/>fraying of them: if any ſcurrilous ſpirits ſhould ſcandalize you and endeavour to defame your per<g ref="char:EOLhyphen"/>ſon
+<pb n="3" facs="tcp:110995:3"/>with opprobrious ſpeeches, of a ſuſpition of ſome illegall intents, you may ſoone helpe that, for you are not without thoſe on your ſide who will bee more ready to aſſiſt, then you to command, and are of ſufficient ability to reſiſt a meane power, yea a greater then a ſudden commotion or a tumultuous rabble can proidve againſt you: as for what ſhall be wanting in you, ſhall bee made good by our endea<g ref="char:EOLhyphen"/>vours, and what you begin wee will end.</p>
+            <p>As for the preſent, we have been lately ſcattered, by reaſon of a ſudden approach of the Scots upon us, ſo that we have loſt ſome of our Officers, and ſome thouſand ſouldiers. Captaine <hi>Denis Carley</hi> dyed volorouſly, and Captaine <hi>Thurlongking</hi> with Lievtenant <hi>Matchet,</hi> whoſe names with us ſhall bee eternized for ever, who choſe rather to dye valiant<g ref="char:EOLhyphen"/>ly in the defence of the Church of Rome, then to yeeld themſelves priſoners to the Hereticke Scots; I will ceaſe to ſpeake further of them, whom wee daily lament: We are now gathering up our ſcatte<g ref="char:EOLhyphen"/>red forces, and make no queſtion but to be of ability to give them battell ſpeedily: Our eyes are upon you in behalfe of brethren, we know there is no want of valour, power, wiſdome, aſſiſtance, or whatſoever may be available for the deſigne in you or your friends; be valiant for the truth then: in ſo doing, you ſhall joy us, deliver our brethren, and prove your ſelfe an everlaſting, reall and conſtant friend to the Church of Rome.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>G. Sartwell,</item>
+                     <item>Redmond,</item>
+                  </list> your friends,
+<list>
+                     <item>
+                        <hi>E. T.</hi>
+                     </item>
+                     <item>
+                        <hi>W. S.</hi>
+                     </item>
+                     <item>
+                        <hi>M. O.</hi>
+                     </item>
+                  </list>
+joyne.</signed>
+            </closer>
+         </div>
+         <div type="list_of_articles_of_treason">
+            <pb facs="tcp:110995:4"/>
+            <head>Articles of high conſequence againſt Colonell <hi>Lunsford,</hi> late Lieutenant of the Tower.</head>
+            <list>
+               <item>1 THat he hath trecherouſly conſpired againſt this City of London, to ſubvert the ſame, and endeavoured to plant the ordnance in the Tower againſt it, diverſe labourers being found there tranſporting Powder, and other Ammuniti<g ref="char:EOLhyphen"/>on to the Bulwarke, and high Tower.</item>
+               <item>2 That he hath laboured to alienate the Parli<g ref="char:EOLhyphen"/>ament from the King, ſpeaking invective words, and ſcandalous aſperſions againſt them, &amp; by this means to make them become odious unto his Majeſty.</item>
+               <item>3 That he hath endevoured to ſubvert the fun<g ref="char:EOLhyphen"/>damentall lawes of the Kingdome, to the utter de<g ref="char:EOLhyphen"/>molition of the State.</item>
+               <item>4 That he hath ſtudied with great ſedulity to advance the See of Rome, and to ſupplant the pure ſanctitie of the Proteſtant Religion.</item>
+               <item>5 That he hath introduced many Popiſh inno<g ref="char:EOLhyphen"/>vations and Idolatrous ſuperſtitions into our Church, labouring to bring ſchiſmaticall divi<g ref="char:EOLhyphen"/>ſions and Hereticall opinions amongſt the peo<g ref="char:EOLhyphen"/>ple.</item>
+               <item>6 That he hath endevoured to maintaine th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb facs="tcp:110995:4"/>Epiſcopall Hierarchie &amp; prelaticall Primacie, op<g ref="char:EOLhyphen"/>poſing the determinations of the Parliament.</item>
+               <item>7 That he hath gathered a regiment of horſe being all Papiſticall adherents, with an intent if that they cannot obtayne the fruition of their ſo de<g ref="char:EOLhyphen"/>villiſh intentions, to innovate the Popiſh Religion, that then to force it in hoſtile manner, and there<g ref="char:EOLhyphen"/>upon have linked themſelves in the Iriſh Co<g ref="char:EOLhyphen"/>venant.</item>
+            </list>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
